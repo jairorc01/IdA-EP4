@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jramirez",
+    "password": "priceless",
+    "database": "techstore",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jramirez",
+    "password": "priceless",
+    "database": "techstore_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jramirez",
+    "password": "priceless",
+    "database": "techstore_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
